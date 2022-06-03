@@ -1,0 +1,15 @@
+(admin) User email = koranteng.admin@stuclinic.com
+        Password = 12345
+
+A simple web-based hospital management system. Consist of the following portals
+
+1- Admin portal
+2- Doctor portal
+3- Nurse portal
+4- Pharmacist portal
+5- Laboratorist portal
+6- Accountant portal
+7- Receptionist portal 
+8- Patient portal
+
+The Admin is responsible for the addition of all other personnel into the system
